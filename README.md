@@ -1,2 +1,2 @@
 # mealFinder
-JavaScrip Project using Th eMeal DB API.
+JavaScrip Project using The eMeal DB API.
