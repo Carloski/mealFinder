@@ -1,4 +1,4 @@
-# mealFinder
+# Meal Finder
 Meal Finder is a small Vanilla JavaScript Project created to practice using Fetch API & JSON.  It features a Modern Responsive design that works smoothly on every desktop, smartphone and tablet.
 
 As mentioned above, the purpose of this project was to practice working with API's & JSON. Also practiced DOM selection & manipulation and used CSS Grid to display the search results in a modern style. This project used The Meal DB API and was based on one of the projects in Brad Traversy's Udemy course on JavaScript. Links found below. 
