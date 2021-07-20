@@ -3,24 +3,35 @@
 }
 
 body {
-  color: #fff;
-  background-image: linear-gradient(to right, #868686, #4e4d4c);
   font-family: 'latos' Arial, Helvetica, sans-serif;
+  color: #fff;
+  height: 100%;
   margin: 0;
+  background-image: url('bg-image.jpg');
+  background-position: center;
+  background-repeat: none;
+  background-size: 100%;
 }
 
 .container {
-  max-width: 800px;
+  background-color: hsl(128, 37%, 24%);
+  max-width: 850px;
   margin: auto;
-  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
+  padding: 1rem 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .flex {
   display: flex;
+}
+
+.title {
+  font-size: 3.5rem;
 }
 
 input,
